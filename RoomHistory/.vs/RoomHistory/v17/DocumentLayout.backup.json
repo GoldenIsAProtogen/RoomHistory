@@ -1,20 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repos\\RoomHistory\\",
+  "WorkspaceRootPath": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\repos\\roomhistory\\roomhistory\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\screens\\roomhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\screens\\roomhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\behaviours\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\behaviours\\roominfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\behaviours\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\behaviours\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\repos\\roomhistory\\roomhistory\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\directory.build.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\directory.build.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\repos\\roomhistory\\roomhistory\\roomhistory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|c:\\users\\ethan\\downloads\\roomhistory\\roomhistory\\roomhistory\\roomhistory\\roomhistory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E5797CF-A710-4957-ADC5-82388037C8BB}|RoomHistory\\RoomHistory.csproj|solutionrelative:roomhistory\\roomhistory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -29,37 +49,105 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PluginInfo.cs",
-              "DocumentMoniker": "C:\\Repos\\RoomHistory\\RoomHistory\\PluginInfo.cs",
-              "RelativeDocumentMoniker": "RoomHistory\\PluginInfo.cs",
-              "ToolTip": "C:\\Repos\\RoomHistory\\RoomHistory\\PluginInfo.cs",
-              "RelativeToolTip": "RoomHistory\\PluginInfo.cs",
+              "DocumentIndex": 5,
+              "Title": "Directory.Build.targets",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Directory.Build.targets",
+              "RelativeDocumentMoniker": "RoomHistory\\Directory.Build.targets",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Directory.Build.targets",
+              "RelativeToolTip": "RoomHistory\\Directory.Build.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-29T20:14:59.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Directory.Build.props",
+              "RelativeDocumentMoniker": "RoomHistory\\Directory.Build.props",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Directory.Build.props",
+              "RelativeToolTip": "RoomHistory\\Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-29T20:14:56.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Behaviours\\RoomInfo.cs",
+              "RelativeDocumentMoniker": "RoomHistory\\Behaviours\\RoomInfo.cs",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Behaviours\\RoomInfo.cs",
+              "RelativeToolTip": "RoomHistory\\Behaviours\\RoomInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:38:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Screens\\RoomHistory.cs",
+              "RelativeDocumentMoniker": "RoomHistory\\Screens\\RoomHistory.cs",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Screens\\RoomHistory.cs",
+              "RelativeToolTip": "RoomHistory\\Screens\\RoomHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:35:49.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Behaviours\\Main.cs",
+              "RelativeDocumentMoniker": "RoomHistory\\Behaviours\\Main.cs",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Behaviours\\Main.cs",
+              "RelativeToolTip": "RoomHistory\\Behaviours\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:34:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Constants.cs",
+              "RelativeDocumentMoniker": "RoomHistory\\Constants.cs",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Constants.cs",
+              "RelativeToolTip": "RoomHistory\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T14:14:30.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAOQAAAAAAAAAAAAhwAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-29T14:13:32.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T14:13:32.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoomHistory",
-              "DocumentMoniker": "C:\\Repos\\RoomHistory\\RoomHistory\\RoomHistory.csproj",
+              "DocumentIndex": 8,
+              "Title": "RoomHistory.csproj",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory.csproj",
               "RelativeDocumentMoniker": "RoomHistory\\RoomHistory.csproj",
-              "ToolTip": "C:\\Repos\\RoomHistory\\RoomHistory\\RoomHistory.csproj",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory.csproj",
               "RelativeToolTip": "RoomHistory\\RoomHistory.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -68,20 +156,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Repos\\RoomHistory\\RoomHistory\\Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Plugin.cs",
               "RelativeDocumentMoniker": "RoomHistory\\Plugin.cs",
-              "ToolTip": "C:\\Repos\\RoomHistory\\RoomHistory\\Plugin.cs",
+              "ToolTip": "C:\\Users\\Ethan\\Downloads\\RoomHistory\\RoomHistory\\RoomHistory\\RoomHistory\\Plugin.cs",
               "RelativeToolTip": "RoomHistory\\Plugin.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T13:43:23.786Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
