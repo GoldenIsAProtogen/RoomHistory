@@ -8,7 +8,7 @@ using Photon.Pun;
 using UnityEngine;
 using static RoomHistory.Behaviours.RoomInfo;
 
-namespace RoomHistory.Screen
+namespace RoomHistory.Screens
 {
     internal class RoomHistory : MonoBehaviour
     {
@@ -31,7 +31,7 @@ namespace RoomHistory.Screen
                         string _GameMode = RoomLogging.Instance.RoomGameModes[i];
                         string _TimeStamp = RoomLogging.Instance.Times[i];
 
-                        lines.Add($"{_RoomName} : {_GameMode} : Joined at: {_TimeStamp}",
+                        lines.Add($"{_RoomName} : {_GameMode} : (Duration: {_TimeStamp})",
                             new List<Widget_Base> { new Widget_PushButton(() => SendPlayerToThatRoom(_RoomName)) });
                     }
                 }

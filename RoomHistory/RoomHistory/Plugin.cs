@@ -10,6 +10,6 @@ namespace RoomHistory
     [BepInPlugin(Constants.GUID, Constants.Name, Constants.Version)]
     public class Plugin : BaseUnityPlugin
     {
-        void Start() => GorillaTagger.OnPlayerSpawned(() => new GameObject(Constants.Name, typeof(Screen.RoomHistory), typeof(RoomLogging), typeof(Main)));
+        void Start() => GorillaTagger.OnPlayerSpawned(() => new GameObject(Constants.Name, typeof(Screens.RoomHistory), typeof(RoomLogging), typeof(Main)));
     }
 }
