@@ -28,8 +28,9 @@ namespace RoomHistory.Behaviours
                 string _Code = NetworkSystem.Instance.RoomName;
                 string _CurrentGameMode = GorillaComputer.instance.currentGameMode.ToString();
                 string _FinalGameMode = "";
+                string gamemodeinfo = _CurrentGameMode.Substring(7);
 
-                _FinalGameMode = $"{(_CurrentGameMode.Contains("MODDED") ? $"Modded({_CurrentGameMode[7]})" : _CurrentGameMode)}";
+                _FinalGameMode = $"{(_CurrentGameMode.Contains("MODDED") ? $"({_CurrentGameMode[0]}){gamemodeinfo}" : _CurrentGameMode)}";
                 RoomGameModes.Add(_FinalGameMode);
                 JoinedRooms.Add(_Code);
                 Times.Add("00:00:00");
