@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using GorillaInfoWatch.Attributes;
+using GorillaInfoWatch.Models.Attributes;
 using GorillaInfoWatch.Models;
 using GorillaInfoWatch.Models.Widgets;
 using GorillaNetworking;
@@ -15,7 +15,7 @@ namespace RoomHistory.Screens
     internal class RoomHistory : MonoBehaviour
     {
         [ShowOnHomeScreen(DisplayTitle = "Room History")]
-        public class RoomHistoryScreen : InfoWatchScreen
+        public class RoomHistoryScreen : GorillaInfoWatch.Models.Screen
         {
             public override string Title => "Room History";
 
