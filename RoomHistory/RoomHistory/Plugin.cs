@@ -1,5 +1,5 @@
 ﻿using BepInEx;
-using GorillaInfoWatch.Attributes;
+using GorillaInfoWatch.Models.Attributes;
 using GorillaInfoWatch.Behaviours;
 using GorillaInfoWatch.Models;
 using Photon.Pun;
