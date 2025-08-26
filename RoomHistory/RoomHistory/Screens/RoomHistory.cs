@@ -26,7 +26,7 @@ namespace RoomHistory.Screens
 
             public override string Description => (RoomLogging.Instance.JoinedRooms.Any()) ? $"Room's joined this session: {RoomLogging.Instance.JoinedRooms.Count}" : "No room's joined yet.";
 
-            public override ScreenContent GetContent()
+            public override ScreenLines GetContent()
             {
                 var lines = new LineBuilder();
 
