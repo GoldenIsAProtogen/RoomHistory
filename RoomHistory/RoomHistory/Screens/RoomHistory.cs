@@ -15,7 +15,7 @@ namespace RoomHistory.Screens
     internal class RoomHistory : MonoBehaviour
     {
         [ShowOnHomeScreen(DisplayTitle = "Room History")]
-        public class RoomHistoryScreen : GorillaInfoWatch.Models.Screen
+        public class RoomHistoryScreen : GorillaInfoWatch.Models.InfoScreen
         {
             public override string Title => "Room History";
 
@@ -26,7 +26,7 @@ namespace RoomHistory.Screens
 
             public override string Description => (RoomLogging.Instance.JoinedRooms.Any()) ? $"Room's joined this session: {RoomLogging.Instance.JoinedRooms.Count}" : "No room's joined yet.";
 
-            public override ScreenLines GetContent()
+            public override InfoContent GetContent()
             {
                 var lines = new LineBuilder();
 
